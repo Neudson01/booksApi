@@ -3,7 +3,6 @@
 
  # Tecnologias utilizadas
 1. Para o backend foi utilizado mongoDB como base de dados, e nodeJS
-2. Para o frontend utilizado html,CSS, bootstrap e javascript/(Jquery) e a lib fullcalendar
 
 ## Instalação
 Para instalar basta executar baixar os arquivos descompactar, acessar o diretório pelo terminal e utilizar o seguinte comando:
